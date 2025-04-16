@@ -1,0 +1,59 @@
+Override software rendering list
+Overrides the built-in software rendering list and enables GPU-acceleration on unsupported system configurations. – Mac, Windows, Linux, ChromeOS, Android, Lacros
+#ignore-gpu-blocklist
+Enabled
+
+Show Autofill predictions
+Annotates web forms with Autofill field type predictions as placeholder text. – Mac, Windows, Linux, ChromeOS, Android, Lacros
+#show-autofill-type-predictions
+Enabled
+
+Smooth Scrolling
+Animate smoothly when scrolling page content. – Windows, Linux, ChromeOS, Android, Lacros
+#smooth-scrolling
+Enabled
+
+Experimental QUIC protocol
+Enable experimental QUIC protocol support. – Mac, Windows, Linux, ChromeOS, Android, Lacros
+#enable-quic
+Enabled
+
+GPU rasterization
+Use GPU to rasterize web content. – Mac, Windows, Linux, ChromeOS, Android, Lacros
+#enable-gpu-rasterization
+Enabled
+
+WebGL Draft Extensions
+Enabling this option allows web applications to access the WebGL extensions that are still in draft status. – Mac, Windows, Linux, ChromeOS, Android, Lacros
+#enable-webgl-draft-extensions
+Enabled
+
+Zero-copy rasterizer
+Raster threads write directly to GPU memory associated with tiles. – Mac, Windows, Linux, ChromeOS, Android, Lacros
+#enable-zero-copy
+Enabled
+
+Auto Dark Mode for Web Contents
+Automatically render all web contents using a dark theme. – Mac, Windows, Linux, ChromeOS, Android, Lacros
+#enable-force-dark
+Enabled
+
+Parallel downloading
+Enable parallel downloading to accelerate download speed. – Mac, Windows, Linux, ChromeOS, Android, Lacros
+#enable-parallel-downloading
+Enabled
+
+Global Media Controls CrOS updated UI
+Show updated UI for Global Media Controls in CrOS. – ChromeOS
+#global-media-controls-cros-updated-ui
+Enabled
+
+Back-forward cache
+If enabled, caches eligible pages after cross-site navigations.To enable caching pages on same-site navigations too, choose 'enabled same-site support'. – Mac, Windows, Linux, ChromeOS, Android, Lacros
+#back-forward-cache
+Enabled
+
+Experimental JavaScript
+Enable web pages to use experimental JavaScript features. - Mac, Windows, Linux, ChromeOS, Android, Lacros
+#enable-javascript-harmony
+Enabled
